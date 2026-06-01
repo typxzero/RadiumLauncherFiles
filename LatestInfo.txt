@@ -1,3 +1,4 @@
 https://github.com/typxzero/RadiumLauncherFiles/releases/download/05262026-Game-PC/Radium_PC.7z
 9a839337e87f99b8541d706684f1bffadba03b70e176de5fe0a2342052707064
 Radium_PC_20260220_KbdgFG
+Radium.exe
