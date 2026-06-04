@@ -1,5 +1,5 @@
 https://cdn.recroomarchive.org/radium/game-client/production/toukeh24kq6w2v4lndyc4z0pblvfyj75/windows/client.zip
 9a839337e87f99b8541d706684f1bffadba03b70e176de5fe0a2342052707064
 client
-Rec Room.exe
+RecRoom.exe
 client.zip
