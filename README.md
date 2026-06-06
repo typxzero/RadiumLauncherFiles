@@ -1,10 +1,5 @@
 # RadiumLauncherFiles
-files for the radium launcher
 
-this repository will most likely only contain releases
+these contain data like file urls and patch scripts
 
-the RadiumLauncher repository was privated temporarily
-
-most likely releasing today 
-
-it will support both linux and windows
+you should check these before downloading or updating radium through [RadiumLauncher](https://github.com/typxzero/RadiumLauncher)
