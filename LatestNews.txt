@@ -1,1 +1,1 @@
-RadiumLauncher v1.2.0 is out now! Discord RPC, macOS support, and more!
+Launcher now supports TenWholeYears! Just click the logo above the play button to switch games.
