@@ -1,5 +1,5 @@
-https://cdn.recroom.baby/builds/0.9.1/windows.zip
-abf2b3c724f69d9620f87c61169e2eed4b9d62742a3232ce68fe785d14dd20cf
+https://cdn.recroom.baby/builds/0.9.2/windows.zip
+b01cade2f863e2a17f8f0f9e635ffa8c36072fc54756ec934d2ba7d3de9301db
 client
 Recroom_Release.exe
 client.zip
