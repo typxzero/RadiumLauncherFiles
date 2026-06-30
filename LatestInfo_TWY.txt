@@ -3,6 +3,6 @@ abf2b3c724f69d9620f87c61169e2eed4b9d62742a3232ce68fe785d14dd20cf
 client
 Recroom_Release.exe
 client.zip
-https://cdn.recroom.baby/builds/0.9.0/linux.zip
-2f891eb5b634e2c88bcfba0f9bd04f56a19b4758ce2907cb53b6fb4b3e5639da
+https://cdn.recroom.baby/builds/0.9.1/linux.zip
+761baa8366913d60bf8b354f1290b68111247ae92f688c6fff03ff86daa1ef9d
 Recroom_Release.x86_64
